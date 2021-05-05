@@ -27,7 +27,7 @@ public class Person {
                 person.spouse = this;
                 return true;
             } else {
-                // Развод и девечья фамилия
+                // Развод и девичья фамилия
 
                 if (this.spouse != person){
                     // Развести 4 человек
